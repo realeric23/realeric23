@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Eric Martinez</h1>
+<h1 align="center">Hello there, I'm Eric Martinez 👋👨🏻‍💻</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina.</h3>
 
 
